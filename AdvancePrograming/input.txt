@@ -1,0 +1,8 @@
+person 1:
+Name : Mahbub
+Age : 25
+Location : Dhaka
+person 2:
+Name : Yasin
+Age : 23
+Location : Mirpur
